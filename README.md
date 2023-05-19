@@ -4,13 +4,16 @@ This is an open source project from [DevProjects](http://www.codementor.io/proje
 Find the project requirements here: [Random number generator web app](https://www.codementor.io/projects/web/random-number-generator-web-app-bz042v8kll)
 
 ## Tech/framework used
-Built with ___
-
-## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
+Built with *php*, *javascript* and *bootstrap*.
 
 ## Installation
-Instructions for other developers on how to install and run your code on their local environment.
+Install php if not installed from [php.net](https://www.php.net/downloads.php).
+
+Install git if not installed from [git-scm.com](https://git-scm.com/downloads).
+
+Run [git clone](https://github.com/salvatorericcardi/rand-generator.git).
+
+Run *php -S localhost:8000*
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
